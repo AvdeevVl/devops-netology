@@ -28,3 +28,5 @@
 
 * .terraformrc
 * **/.terraform/*
+
+# Переключились на ветку fix
