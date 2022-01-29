@@ -28,3 +28,6 @@
 
 * .terraformrc
 * **/.terraform/*
+
+
+#Добавление комментариев с помощью IDE Py Charm в ветке main
